@@ -52,7 +52,7 @@ Before running locally, ensure:
 ---
 
 #  ResumeAI — Build Resume 
-\<img width="1280" height="760" alt="image" src="https://github.com/user-attachments/assets/10e8a97d-c99f-46e3-8e85-d25d4faac170" />
+<img width="1280" height="760" alt="image" src="https://github.com/user-attachments/assets/10e8a97d-c99f-46e3-8e85-d25d4faac170" />
 
 ## ⚙️ Installation & Setup  
 
