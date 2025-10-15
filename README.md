@@ -50,8 +50,11 @@ Before running locally, ensure:
 - **Git**
 
 ---
-![Resume Builder Homepage](<img width="1280" height="760" alt="image" src="https://github.com/user-attachments/assets/b9f9e3a3-8ba5-464f-b203-66aac0960ec7" />
+
+#  ResumeAI — Build Resume 
+![ResumeBuilder.io Homepage Preview](<img width="1280" height="760" alt="image" src="https://github.com/user-attachments/assets/9e1858f5-4403-4e15-a78a-4590d17cc93d" />
 )
+
 
 ## ⚙️ Installation & Setup  
 
